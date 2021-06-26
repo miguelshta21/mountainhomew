@@ -1,0 +1,9 @@
+C:\Users\miguel\source\repos\Testv1\Testv1\obj\Debug\Testv1.csproj.AssemblyReference.cache
+C:\Users\miguel\source\repos\Testv1\Testv1\obj\Debug\Testv1.Form1.resources
+C:\Users\miguel\source\repos\Testv1\Testv1\obj\Debug\Testv1.Properties.Resources.resources
+C:\Users\miguel\source\repos\Testv1\Testv1\obj\Debug\Testv1.csproj.GenerateResource.cache
+C:\Users\miguel\source\repos\Testv1\Testv1\obj\Debug\Testv1.csproj.CoreCompileInputs.cache
+C:\Users\miguel\source\repos\Testv1\Testv1\bin\Debug\Testv1.exe
+C:\Users\miguel\source\repos\Testv1\Testv1\bin\Debug\Testv1.pdb
+C:\Users\miguel\source\repos\Testv1\Testv1\obj\Debug\Testv1.exe
+C:\Users\miguel\source\repos\Testv1\Testv1\obj\Debug\Testv1.pdb
